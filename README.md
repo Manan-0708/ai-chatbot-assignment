@@ -6,7 +6,7 @@ A lightweight, reliable full-stack AI chatbot built with FastAPI, React (Vite), 
 
 ## 1. Live URLs
 
-- **Frontend (Vercel):** `https://ai-chatbot-frontend-demo.vercel.app` *(or your deployed Vercel URL)*
+- **Frontend (Vercel):** https://ai-chatbot-assignment-kappa.vercel.app/
 - **Backend (Render):** https://ai-chatbot-assignment-1.onrender.com
 - **API Health Check:** https://ai-chatbot-assignment-1.onrender.com/health
 - **GitHub Repository:** https://github.com/Manan-0708/ai-chatbot-assignment
