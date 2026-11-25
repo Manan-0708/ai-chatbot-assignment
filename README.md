@@ -9,7 +9,7 @@ A lightweight, reliable full-stack AI chatbot built with FastAPI, React (Vite), 
 - **Frontend (Vercel):** `https://ai-chatbot-frontend-demo.vercel.app` *(or your deployed Vercel URL)*
 - **Backend (Render):** `https://ai-chatbot-backend-demo.onrender.com` *(or your deployed Render URL)*
 - **API Health Check:** `https://ai-chatbot-backend-demo.onrender.com/health`
-- **GitHub Repository:** *(Connect your remote repository URL)*
+- **GitHub Repository:** https://github.com/Manan-0708/ai-chatbot-assignment
 
 > **Note on Deployment:** To deploy live under your personal accounts:
 > 1. Push this repository to your GitHub profile (`git push origin main`).
