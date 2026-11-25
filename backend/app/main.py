@@ -30,6 +30,14 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
+@app.get("/")
+def root():
+    return {
+        "message": "AI Chatbot Backend API is live",
+        "health": "/health",
+        "docs": "/docs"
+    }
+
 @app.get("/health", response_model=HealthResponse)
 def health():
     """Health check endpoint returning service status, key count, and cache status."""
